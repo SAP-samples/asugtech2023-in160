@@ -21,7 +21,7 @@ Our help documentation : https://help.sap.com/docs/integration-suite/sap-integra
 ## Installation Video
 
 Here is the link to the video: <br> <br>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=frIt_8ZsEQQ" target="_blank"><img src="http://img.youtube.com/vi/frIt_8ZsEQQ/0.jpg" alt="IMAGE ALT TEXT HERE" width="700" height="560" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=2FOsMGmbZqQ" target="_blank"><img src="http://img.youtube.com/vi/2FOsMGmbZqQ/0.jpg" alt="IMAGE ALT TEXT HERE" width="700" height="560" border="10" /></a>
 
 ## Setup steps
 
