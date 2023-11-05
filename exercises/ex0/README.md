@@ -15,7 +15,7 @@ Key highlights:
 - Tools-based, guided approach to define, document, and govern your integration strategy
 - Leader in multiple analyst ratings including Gartner and IDC 
 
-<br>![](/exercises/ex0/images/IS.jpg)
+<br>![](/exercises/ex0/images/sis-1.png)
 
 ## What is Edge Integration Cell and how does it enable Hybrid Integrations?
 
@@ -29,7 +29,7 @@ Key Highlights:
 - Business continuity during temporary connectivity loss (up to 4 hrs)
 - Migration path for PI/PO customers 
 
-<br>![](/exercises/ex0/images/EIC.jpg)
+<br>![](/exercises/ex0/images/sis.png)
 
 ## Summary
 
