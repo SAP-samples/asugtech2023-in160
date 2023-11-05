@@ -14,23 +14,31 @@ For all the subsequent steps in this exercise, please replace the xx in userxx w
 
 ![](/exercises/ex4/images/04_01_0010.png)
 
-2. Create a package with the details as shown in the image below and click on Save. Replace xx with the id assigned to you.
+2. Create a package with the details as shown in the table below and click on Save. Replace xx with the id assigned to you.
+   
+| Field | Value |
+| ----- | ----- |
+| Name | ASUG2023 userxx |
+| Technical Name | ASUG2023userxx |
+| Short Description | API to demonstrate the use case of API-Led Integration |
+|Version | v1 |
+| Vendor | SAP |
 
-![](/exercises/ex4/images/04_02_0010.png)
+![](/exercises/ex4/images/1.png)
 
 3. Navigate to the Artifacts tab and add an API
 
-![](/exercises/ex4/images/04_03_0010.png)
+![](/exercises/ex4/images/2.png)
 
 4. For the purpose of this exercise, we would be selecting the URL option
 
-![](/exercises/ex4/images/04_04_0010.png)
+![](/exercises/ex4/images/4.png)
 
 5. Fill in the details for the API
 
 | Field | Value |
 | ----- | ----- |
-| Name | Teched2023 API Artifact userxx |
+| Name | ASUG2023 API Artifact userxx |
 | URL | https://proxyavrdev.hana.ondemand.com/Proxy/jenkslave55.cpi.c.eu-de-1.cloud.sap/9912/sap/bc/srt/scs_ext/sap/salesorderbulkrequest_in |
 | API Base Path | /apiuserxx |
 | API State (select from dropdown) | Active |
