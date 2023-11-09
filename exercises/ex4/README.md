@@ -75,33 +75,33 @@ For all the subsequent steps in this exercise, please replace the xx in userxx w
 
 ![](/exercises/ex4/images/12.png)
 
-12. Now we are ready to deploy the API on Edge. Click on "..." icon on the top right corner and from the dropdown select "Deploy". During creation we had already configured the runtime profile and the hence this would deploy the API to the configured edge runtime profile
+12. Now we are ready to deploy the API on Edge. Click on "..." icon on the top right corner and from the dropdown select "Deploy". During creation, we had already configured the runtime profile and hence this would deploy the API to the configured edge runtime profile
 
 ![](/exercises/ex4/images/13.png)
 
 13. Post a successful deployment , the status field for the API should change from "Not deployed" to the corresponding state. In the UI, the highlighted section shows that the API is successfully deployed and is ready for execution
 
-![](/exercises/ex4/images/04_12_0010.png)
+![](/exercises/ex4/images/14.png)
 
 14. Navigate out of the edit view by selecting "Cancel" from the dropdown as shown
 
-![](/exercises/ex4/images/04_13_0010.png)
+![](/exercises/ex4/images/15.png)
 
-15. Now we would navigate to the monitoring shell navigation item on the left and select "Integrations and API". Post the selection , we would select the edge runtime profile from the dropdown.
+15. Now we would navigate to the monitoring shell navigation item on the left and select "Integrations and API". Post the selection, we would select the edge runtime profile from the dropdown.
 
-![](/exercises/ex4/images/04_14_0010.png)
+![](/exercises/ex4/images/16.png)
 
-16. Under the Manage Integration Content section , click on the highlighted tile to navigate to the list view of all the deployed artifacts
+16. Under the Manage Integration Content section, click on the highlighted tile to navigate to the list view of all the deployed artifacts
 
 ![](/exercises/ex4/images/04_15_0010.png)
 
-17. Select the artifact "Teched2023 API Artifact userxx" and you should see the endpoint which would be used to access the API. Click on the highlighted icon and this copy the deployed url to the clipboard. From the dropdown below , change the log level to "Debug" as shown below. Confirm the change on the dialog box which appears post the log level is changed from the dropdown.
+17. Select the artifact "ASUG2023 API Artifact userxx" and you should see the endpoint which would be used to access the API. Click on the highlighted icon and copy the deployed url to the clipboard. From the dropdown below, change the log level to "Debug" as shown below. Confirm the change on the dialog box which appears post the log level is changed from the dropdown.
 
 <br>![](/exercises/ex4/images/04_16_0010.png)
 <br>![](/exercises/ex4/images/04_17_0010.png)
 <br>![](/exercises/ex4/images/04_18_0010.png)
 
-18. Now that we have successfully deployed the API , it is time to test the API. Create a new request in the insomnia client in a similar fashion as mentioned in the [previous exercise](../ex3/README.md). In the url section , paste the url which was already copied to clipboard as part of the previous step.For the request , we would be using the credentials as shown below in the table
+18. Now that we have successfully deployed the API, it is time to test the API. Create a new request in the insomnia client in a similar fashion as mentioned in the [previous exercise](../ex3/README.md). In the URL section, paste the URL that was already copied to the clipboard as part of the previous step. For the request, we would be using the credentials as shown below in the table
 <br>
 
 | Field | Value |
