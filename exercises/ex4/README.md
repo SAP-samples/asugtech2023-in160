@@ -49,33 +49,35 @@ For all the subsequent steps in this exercise, please replace the xx in userxx w
 
 6. Post the successful creation of the API, navigate into the "Overview" tab to confirm if the details are correct
 
-![](/exercises/ex4/images/04_06_0010.png)
+![](/exercises/ex4/images/5.png)
 
 7. Click on Edit and navigate to the "Policies" tab and this is how the starter content should look like. As you can see the Authentication policy appears by default. 
 
-![](/exercises/ex4/images/04_07_01_0010.png)
+![](/exercises/ex4/images/6.png)
 
 8. Double-click on the authentication policy and navigate to the property sheet at the bottom (note: use the scroll bar of your page to scroll and navigate down in case you are unable to see the property sheet). By default "Basic" is not enabled and for this exercise, you should enable the Basic checkbox from the multi-select drop-down and click on Save
 
-![](/exercises/ex4/images/04_07_02_0010.png)
+![](/exercises/ex4/images/7.png)
 
-9. Click on the Authentication policy and you should see a pop-up with a set of actions. Click on the "+" icon
+9. Click on the Authentication policy and you should see a pop-up with a set of actions. Click on the "+" icon. Select the surge protection policy from the drop-down and add the Surge protection policy.
 
-![](/exercises/ex4/images/04_08_0010.png)
+![](/exercises/ex4/images/8.png)
 
-10. Select the surge protection policy from the drop-down and add the Surge protection policy. The policy protects the target endpoint from a sudden spike in incoming requests. Navigate to the highlighted section below in the property sheet of the policy and fill in the details as shown in the UI. We are effectively configuring the policy to allow only 5 calls in a span of 10 seconds
+10. The policy protects the target endpoint from a sudden spike in incoming requests. Navigate to the highlighted section below in the property sheet of the policy and fill in the details as shown in the UI. We are effectively configuring the policy to allow only 5 calls in a span of 10 seconds
 
-![](/exercises/ex4/images/04_09_0010.png)
+![](/exercises/ex4/images/9.png)
 
 11. Click on Request Reply and when the pop-up opens, click on the "+" icon. Select "XML to JSON Converter" from the drop-down. Configure the step in accordance with the highlighted section shown in the UI and click on Save
 
-![](/exercises/ex4/images/04_10_01_0010.png)
+![](/exercises/ex4/images/10.png)
 
-![](/exercises/ex4/images/04_10_02_0010.png)
+![](/exercises/ex4/images/11.png)
+
+![](/exercises/ex4/images/12.png)
 
 12. Now we are ready to deploy the API on Edge. Click on "..." icon on the top right corner and from the dropdown select "Deploy". During creation we had already configured the runtime profile and the hence this would deploy the API to the configured edge runtime profile
 
-![](/exercises/ex4/images/04_11_0010.png)
+![](/exercises/ex4/images/13.png)
 
 13. Post a successful deployment , the status field for the API should change from "Not deployed" to the corresponding state. In the UI, the highlighted section shows that the API is successfully deployed and is ready for execution
 
