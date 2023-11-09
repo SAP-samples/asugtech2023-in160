@@ -55,7 +55,7 @@ For all the subsequent steps in this exercise, please replace the xx in userxx w
 
 ![](/exercises/ex4/images/04_07_01_0010.png)
 
-8. Double click on the authentication policy and navigate to the property sheet at the bottom. By default "Basic" is not enabled and for this exercise, you should enable the Basic checkbox from the multi-select drop-down and click on Save
+8. Double-click on the authentication policy and navigate to the property sheet at the bottom (note: use the scroll bar of your page to scroll and navigate down in case you are unable to see the property sheet). By default "Basic" is not enabled and for this exercise, you should enable the Basic checkbox from the multi-select drop-down and click on Save
 
 ![](/exercises/ex4/images/04_07_02_0010.png)
 
