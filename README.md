@@ -10,10 +10,12 @@ In this session, you will learn to activate, setup and operate Edge Integration 
 
 ## Pre-requisites
 
-There are no pre-requistes for this hands-on session. You can perform this even if you do not have any experience with integration solutions. However, you will be able to derive a lot of value from this session, if you have some knowledge on what SAP Integration Suite is all about and how it helps with enterprise-wide integration needs.
+There are special no pre-requistes for this hands-on session. You can perform this even if you do not have any experience with integration solutions. However, you will be able to derive a lot of value from this session, if you have some knowledge on what SAP Integration Suite is all about and how it helps with enterprise-wide integration needs.
 
 Here is a mission that can help you getting started with SAP Integration Suite:
 - [Get Started with Integration Suite](https://discovery-center.cloud.sap/protected/index.html#/missiondetail/3258/3327/)
+
+You will need a tool like [Postman](https://www.postman.com/downloads/) or [Insomnia](https://insomnia.rest/) to test the IFlow / API endpoints
 
 ## Read this first
 
