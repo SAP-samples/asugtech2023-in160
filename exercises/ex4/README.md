@@ -119,13 +119,13 @@ For all the subsequent steps in this exercise, please replace the xx in userxx w
 
 ![](/exercises/ex4/images/20.png)
 
-21. Select the latest execution entry click on the Debug link as shown below
+21. Select the latest execution entry and click on the Debug link as shown below
 
 ![](/exercises/ex4/images/04_22_0010.png)
 
-22. We can see that the failure happened at the Surge protection policy and on clicking the "x" icon , we can see the actual error in the toast message
+22. We can see that the failure happened at the Surge protection policy and on clicking the "x" icon, we can see the actual error in the toast message
 
-<br>![](/exercises/ex4/images/04_23_0010.png)
+<br>![](/exercises/ex4/images/21.png)
 <br>![](/exercises/ex4/images/04_24_0010.png)
 
 ## Summary
