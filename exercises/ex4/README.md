@@ -97,9 +97,9 @@ For all the subsequent steps in this exercise, please replace the xx in userxx w
 
 17. Select the artifact "ASUG2023 API Artifact userxx" and you should see the endpoint which would be used to access the API. Click on the highlighted icon and copy the deployed url to the clipboard. From the dropdown below, change the log level to "Debug" as shown below. Confirm the change on the dialog box which appears post the log level is changed from the dropdown.
 
-<br>![](/exercises/ex4/images/04_16_0010.png)
-<br>![](/exercises/ex4/images/04_17_0010.png)
-<br>![](/exercises/ex4/images/04_18_0010.png)
+<br>![](/exercises/ex4/images/17.png)
+<br>![](/exercises/ex4/images/18.png)
+<br>![](/exercises/ex4/images/19.png)
 
 18. Now that we have successfully deployed the API, it is time to test the API. Create a new request in the insomnia client in a similar fashion as mentioned in the [previous exercise](../ex3/README.md). In the URL section, paste the URL that was already copied to the clipboard as part of the previous step. For the request, we would be using the credentials as shown below in the table
 <br>
@@ -117,7 +117,7 @@ For all the subsequent steps in this exercise, please replace the xx in userxx w
 
 20. Now , we would navigate back to the monitoring UI to visualize the execution flow. Click on Monitor Message Processing link as shown in the UI for the artifact artifact "Teched2023 API Artifact userxx" and this should show all the executions of the API with the latest execution appearing right at the top
 
-![](/exercises/ex4/images/04_21_0010.png)
+![](/exercises/ex4/images/20.png)
 
 21. Select the latest execution entry click on the Debug link as shown below
 
