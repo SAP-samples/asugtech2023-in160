@@ -1,4 +1,4 @@
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2023-IN160)](https://api.reuse.software/info/github.com/SAP-samples/teched2023-IN160)
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/asugtech2023-in160)](https://api.reuse.software/info/github.com/SAP-samples/asugtech2023-in160)
 
 # IN160 - Discover next-generation hybrid integrations with Edge Integration Cell
 
